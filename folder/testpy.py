@@ -1,4 +1,4 @@
 import time
 
-time.sleep(2)
+time.sleep(1)
 print('hi')
